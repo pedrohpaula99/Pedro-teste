@@ -1,5 +1,5 @@
 {
-    "name": "pedro/teste",
+    "name": "sdkpedroteste/teste",
 	"description": "Brincadeiras do Pedro em PHP",
 	"version": "1.1.0",
 	"license": "MIT",
@@ -8,7 +8,7 @@
 	},
     "autoload": {
 		"psr-4": {
-			"Inter\\": "src"
+			"TESTE\\": "src"
 		}
 	}
  }
